@@ -4,7 +4,7 @@ Tensorflow build for HP Pavilion g6 Notebook PC (B1R15EA#ABZ)
 To install:
 
 ```bash
-pip install tensorflow-version-tags.whl
+pip install tensorflow-<version-tags>.whl
 ```
 
 lshw output
